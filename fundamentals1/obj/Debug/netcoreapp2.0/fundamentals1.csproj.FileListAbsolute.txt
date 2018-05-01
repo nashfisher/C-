@@ -1,0 +1,10 @@
+/Users/Nash/Desktop/CodingDojo_repository/C#/fundamentals1/bin/Debug/netcoreapp2.0/fundamentals1.deps.json
+/Users/Nash/Desktop/CodingDojo_repository/C#/fundamentals1/bin/Debug/netcoreapp2.0/fundamentals1.runtimeconfig.json
+/Users/Nash/Desktop/CodingDojo_repository/C#/fundamentals1/bin/Debug/netcoreapp2.0/fundamentals1.runtimeconfig.dev.json
+/Users/Nash/Desktop/CodingDojo_repository/C#/fundamentals1/bin/Debug/netcoreapp2.0/fundamentals1.dll
+/Users/Nash/Desktop/CodingDojo_repository/C#/fundamentals1/bin/Debug/netcoreapp2.0/fundamentals1.pdb
+/Users/Nash/Desktop/CodingDojo_repository/C#/fundamentals1/obj/Debug/netcoreapp2.0/fundamentals1.csproj.CoreCompileInputs.cache
+/Users/Nash/Desktop/CodingDojo_repository/C#/fundamentals1/obj/Debug/netcoreapp2.0/fundamentals1.AssemblyInfoInputs.cache
+/Users/Nash/Desktop/CodingDojo_repository/C#/fundamentals1/obj/Debug/netcoreapp2.0/fundamentals1.AssemblyInfo.cs
+/Users/Nash/Desktop/CodingDojo_repository/C#/fundamentals1/obj/Debug/netcoreapp2.0/fundamentals1.dll
+/Users/Nash/Desktop/CodingDojo_repository/C#/fundamentals1/obj/Debug/netcoreapp2.0/fundamentals1.pdb
