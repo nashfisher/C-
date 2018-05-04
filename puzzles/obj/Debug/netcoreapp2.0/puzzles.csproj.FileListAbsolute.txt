@@ -1,0 +1,10 @@
+/Users/Nash/Desktop/CodingDojo_repository/C#/puzzles/bin/Debug/netcoreapp2.0/puzzles.deps.json
+/Users/Nash/Desktop/CodingDojo_repository/C#/puzzles/bin/Debug/netcoreapp2.0/puzzles.runtimeconfig.json
+/Users/Nash/Desktop/CodingDojo_repository/C#/puzzles/bin/Debug/netcoreapp2.0/puzzles.runtimeconfig.dev.json
+/Users/Nash/Desktop/CodingDojo_repository/C#/puzzles/bin/Debug/netcoreapp2.0/puzzles.dll
+/Users/Nash/Desktop/CodingDojo_repository/C#/puzzles/bin/Debug/netcoreapp2.0/puzzles.pdb
+/Users/Nash/Desktop/CodingDojo_repository/C#/puzzles/obj/Debug/netcoreapp2.0/puzzles.csproj.CoreCompileInputs.cache
+/Users/Nash/Desktop/CodingDojo_repository/C#/puzzles/obj/Debug/netcoreapp2.0/puzzles.AssemblyInfoInputs.cache
+/Users/Nash/Desktop/CodingDojo_repository/C#/puzzles/obj/Debug/netcoreapp2.0/puzzles.AssemblyInfo.cs
+/Users/Nash/Desktop/CodingDojo_repository/C#/puzzles/obj/Debug/netcoreapp2.0/puzzles.dll
+/Users/Nash/Desktop/CodingDojo_repository/C#/puzzles/obj/Debug/netcoreapp2.0/puzzles.pdb

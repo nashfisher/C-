@@ -1,0 +1,10 @@
+/Users/Nash/Desktop/CodingDojo_repository/C#/collections_practice/obj/Debug/netcoreapp2.0/collections_practice.csproj.CoreCompileInputs.cache
+/Users/Nash/Desktop/CodingDojo_repository/C#/collections_practice/obj/Debug/netcoreapp2.0/collections_practice.AssemblyInfoInputs.cache
+/Users/Nash/Desktop/CodingDojo_repository/C#/collections_practice/obj/Debug/netcoreapp2.0/collections_practice.AssemblyInfo.cs
+/Users/Nash/Desktop/CodingDojo_repository/C#/collections_practice/bin/Debug/netcoreapp2.0/collections_practice.deps.json
+/Users/Nash/Desktop/CodingDojo_repository/C#/collections_practice/bin/Debug/netcoreapp2.0/collections_practice.runtimeconfig.json
+/Users/Nash/Desktop/CodingDojo_repository/C#/collections_practice/bin/Debug/netcoreapp2.0/collections_practice.runtimeconfig.dev.json
+/Users/Nash/Desktop/CodingDojo_repository/C#/collections_practice/bin/Debug/netcoreapp2.0/collections_practice.dll
+/Users/Nash/Desktop/CodingDojo_repository/C#/collections_practice/bin/Debug/netcoreapp2.0/collections_practice.pdb
+/Users/Nash/Desktop/CodingDojo_repository/C#/collections_practice/obj/Debug/netcoreapp2.0/collections_practice.dll
+/Users/Nash/Desktop/CodingDojo_repository/C#/collections_practice/obj/Debug/netcoreapp2.0/collections_practice.pdb
