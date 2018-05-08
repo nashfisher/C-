@@ -1,0 +1,10 @@
+/Users/Nash/Desktop/programming/C#/callingcard/bin/Debug/netcoreapp2.0/callingcard.deps.json
+/Users/Nash/Desktop/programming/C#/callingcard/bin/Debug/netcoreapp2.0/callingcard.runtimeconfig.json
+/Users/Nash/Desktop/programming/C#/callingcard/bin/Debug/netcoreapp2.0/callingcard.runtimeconfig.dev.json
+/Users/Nash/Desktop/programming/C#/callingcard/bin/Debug/netcoreapp2.0/callingcard.dll
+/Users/Nash/Desktop/programming/C#/callingcard/bin/Debug/netcoreapp2.0/callingcard.pdb
+/Users/Nash/Desktop/programming/C#/callingcard/obj/Debug/netcoreapp2.0/callingcard.csproj.CoreCompileInputs.cache
+/Users/Nash/Desktop/programming/C#/callingcard/obj/Debug/netcoreapp2.0/callingcard.AssemblyInfoInputs.cache
+/Users/Nash/Desktop/programming/C#/callingcard/obj/Debug/netcoreapp2.0/callingcard.AssemblyInfo.cs
+/Users/Nash/Desktop/programming/C#/callingcard/obj/Debug/netcoreapp2.0/callingcard.dll
+/Users/Nash/Desktop/programming/C#/callingcard/obj/Debug/netcoreapp2.0/callingcard.pdb

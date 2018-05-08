@@ -1,0 +1,10 @@
+/Users/Nash/Desktop/programming/C#/webapptrial/bin/Debug/netcoreapp2.0/webapptrial.deps.json
+/Users/Nash/Desktop/programming/C#/webapptrial/bin/Debug/netcoreapp2.0/webapptrial.runtimeconfig.json
+/Users/Nash/Desktop/programming/C#/webapptrial/bin/Debug/netcoreapp2.0/webapptrial.runtimeconfig.dev.json
+/Users/Nash/Desktop/programming/C#/webapptrial/bin/Debug/netcoreapp2.0/webapptrial.dll
+/Users/Nash/Desktop/programming/C#/webapptrial/bin/Debug/netcoreapp2.0/webapptrial.pdb
+/Users/Nash/Desktop/programming/C#/webapptrial/obj/Debug/netcoreapp2.0/webapptrial.csproj.CoreCompileInputs.cache
+/Users/Nash/Desktop/programming/C#/webapptrial/obj/Debug/netcoreapp2.0/webapptrial.AssemblyInfoInputs.cache
+/Users/Nash/Desktop/programming/C#/webapptrial/obj/Debug/netcoreapp2.0/webapptrial.AssemblyInfo.cs
+/Users/Nash/Desktop/programming/C#/webapptrial/obj/Debug/netcoreapp2.0/webapptrial.dll
+/Users/Nash/Desktop/programming/C#/webapptrial/obj/Debug/netcoreapp2.0/webapptrial.pdb

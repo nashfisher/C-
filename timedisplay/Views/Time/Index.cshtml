@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Hello!</title>
+    </head>
+    <body>
+        <h1>I am the time controller.</h1>
+
+        <h3>current time:</h3>
+        @{
+            DateTime CurrentTime = DateTime.Now;
+            string format = "MMM d yyy HH:mm";
+
+        }
+        <p>@CurrentTime.ToString(format)</p>
+    </body>
+</html>

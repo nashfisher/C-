@@ -1,0 +1,10 @@
+/Users/Nash/Desktop/programming/C#/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.deps.json
+/Users/Nash/Desktop/programming/C#/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.runtimeconfig.json
+/Users/Nash/Desktop/programming/C#/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.runtimeconfig.dev.json
+/Users/Nash/Desktop/programming/C#/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.dll
+/Users/Nash/Desktop/programming/C#/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.pdb
+/Users/Nash/Desktop/programming/C#/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.csproj.CoreCompileInputs.cache
+/Users/Nash/Desktop/programming/C#/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.AssemblyInfoInputs.cache
+/Users/Nash/Desktop/programming/C#/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.AssemblyInfo.cs
+/Users/Nash/Desktop/programming/C#/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.dll
+/Users/Nash/Desktop/programming/C#/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.pdb
