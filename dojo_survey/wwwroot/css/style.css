@@ -1,0 +1,24 @@
+body {
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.wrapper {
+    text-align: center;
+    width: 100vw;
+    align-content: center;
+    /* border: 1px solid grey; */
+}
+
+form {
+    /* border: 1px solid grey; */
+    width: 30%;
+    max-width: 500px;
+    margin: auto;
+}
+
+.row {
+    text-align: center;
+    width: 100%;
+}
