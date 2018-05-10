@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <link rel="stylesheet" href="~/css/style.css"/>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
+        <title>Hello!</title>
+    </head>
+    <body>
+        <div class="wrapper">
+            <div class="content">
+                <h4>Random Passcode Generator</h4>
+                <p>random passcode (passcode #@ViewBag.Count)</p>
+                <div class="window">
+                    <p>@TempData["Passcode"]</p>
+                </div>
+                <form action="generate" method="POST">
+                    <button class="btn waves-effect waves-light cyan" type="submit" name="action">Generate Passcode
+                        <i class="material-icons left">chevron_left</i>
+                        <i class="material-icons right">chevron_right</i>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </body>
+</html>
