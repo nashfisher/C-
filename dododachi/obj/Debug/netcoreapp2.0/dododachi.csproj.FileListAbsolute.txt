@@ -1,0 +1,10 @@
+/Users/Nash/Desktop/programming/C#/dododachi/bin/Debug/netcoreapp2.0/dododachi.deps.json
+/Users/Nash/Desktop/programming/C#/dododachi/bin/Debug/netcoreapp2.0/dododachi.runtimeconfig.json
+/Users/Nash/Desktop/programming/C#/dododachi/bin/Debug/netcoreapp2.0/dododachi.runtimeconfig.dev.json
+/Users/Nash/Desktop/programming/C#/dododachi/bin/Debug/netcoreapp2.0/dododachi.dll
+/Users/Nash/Desktop/programming/C#/dododachi/bin/Debug/netcoreapp2.0/dododachi.pdb
+/Users/Nash/Desktop/programming/C#/dododachi/obj/Debug/netcoreapp2.0/dododachi.csproj.CoreCompileInputs.cache
+/Users/Nash/Desktop/programming/C#/dododachi/obj/Debug/netcoreapp2.0/dododachi.AssemblyInfoInputs.cache
+/Users/Nash/Desktop/programming/C#/dododachi/obj/Debug/netcoreapp2.0/dododachi.AssemblyInfo.cs
+/Users/Nash/Desktop/programming/C#/dododachi/obj/Debug/netcoreapp2.0/dododachi.dll
+/Users/Nash/Desktop/programming/C#/dododachi/obj/Debug/netcoreapp2.0/dododachi.pdb

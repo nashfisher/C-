@@ -1,0 +1,21 @@
+.window {
+    border: 1px, solid, gray;
+    height: 30vh;
+    width: 40vw;
+}
+
+.messages {
+    height: 30px;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+
+}
+
+form {
+    display: inline-block;
+    width: 100px;
+}
+
