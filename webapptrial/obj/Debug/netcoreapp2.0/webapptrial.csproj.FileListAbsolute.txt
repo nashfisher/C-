@@ -8,3 +8,4 @@
 /Users/Nash/Desktop/programming/C#/webapptrial/obj/Debug/netcoreapp2.0/webapptrial.AssemblyInfo.cs
 /Users/Nash/Desktop/programming/C#/webapptrial/obj/Debug/netcoreapp2.0/webapptrial.dll
 /Users/Nash/Desktop/programming/C#/webapptrial/obj/Debug/netcoreapp2.0/webapptrial.pdb
+/Users/Nash/Desktop/programming/C#/webapptrial/obj/Debug/netcoreapp2.0/webapptrial.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+/Users/Nash/Desktop/programming/C#/mvctrial/bin/Debug/netcoreapp2.0/mvctrial.deps.json
+/Users/Nash/Desktop/programming/C#/mvctrial/bin/Debug/netcoreapp2.0/mvctrial.runtimeconfig.json
+/Users/Nash/Desktop/programming/C#/mvctrial/bin/Debug/netcoreapp2.0/mvctrial.runtimeconfig.dev.json
+/Users/Nash/Desktop/programming/C#/mvctrial/bin/Debug/netcoreapp2.0/mvctrial.dll
+/Users/Nash/Desktop/programming/C#/mvctrial/bin/Debug/netcoreapp2.0/mvctrial.pdb
+/Users/Nash/Desktop/programming/C#/mvctrial/obj/Debug/netcoreapp2.0/mvctrial.csprojResolveAssemblyReference.cache
+/Users/Nash/Desktop/programming/C#/mvctrial/obj/Debug/netcoreapp2.0/mvctrial.csproj.CoreCompileInputs.cache
+/Users/Nash/Desktop/programming/C#/mvctrial/obj/Debug/netcoreapp2.0/mvctrial.AssemblyInfoInputs.cache
+/Users/Nash/Desktop/programming/C#/mvctrial/obj/Debug/netcoreapp2.0/mvctrial.AssemblyInfo.cs
+/Users/Nash/Desktop/programming/C#/mvctrial/obj/Debug/netcoreapp2.0/mvctrial.dll
+/Users/Nash/Desktop/programming/C#/mvctrial/obj/Debug/netcoreapp2.0/mvctrial.pdb

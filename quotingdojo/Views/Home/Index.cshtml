@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h3>Quoting Dojo</h3>
+<form class="uk-form-stacked" action="quotes" method="POST">
+    <div>
+        <label class="uk-form-label" for="name">Your name:</label>
+        <input class="uk-input" name="name" type="text">
+    </div>
+    <div>
+        <label class="uk-form-label" for="comment">Your quote:</label>
+        <div class="control">
+            <textarea class="uk-textarea" name="comment"></textarea>
+        </div>
+    </div>
+    <div>
+        <div class="uk-control">
+            <button class="uk-button uk-button-primary">Submit</button>
+        </div>
+    </div>
+</form>
+
+<form action="quotes" method="GET">
+    <button class="uk-button uk-button-default">Skip to Quotes</button>
+</form>

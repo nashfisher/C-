@@ -1,0 +1,11 @@
+/Users/Nash/Desktop/programming/C#/quotingdojo/obj/Debug/netcoreapp2.0/quotingdojo.csprojResolveAssemblyReference.cache
+/Users/Nash/Desktop/programming/C#/quotingdojo/obj/Debug/netcoreapp2.0/quotingdojo.csproj.CoreCompileInputs.cache
+/Users/Nash/Desktop/programming/C#/quotingdojo/obj/Debug/netcoreapp2.0/quotingdojo.AssemblyInfoInputs.cache
+/Users/Nash/Desktop/programming/C#/quotingdojo/obj/Debug/netcoreapp2.0/quotingdojo.AssemblyInfo.cs
+/Users/Nash/Desktop/programming/C#/quotingdojo/bin/Debug/netcoreapp2.0/quotingdojo.deps.json
+/Users/Nash/Desktop/programming/C#/quotingdojo/bin/Debug/netcoreapp2.0/quotingdojo.runtimeconfig.json
+/Users/Nash/Desktop/programming/C#/quotingdojo/bin/Debug/netcoreapp2.0/quotingdojo.runtimeconfig.dev.json
+/Users/Nash/Desktop/programming/C#/quotingdojo/bin/Debug/netcoreapp2.0/quotingdojo.dll
+/Users/Nash/Desktop/programming/C#/quotingdojo/bin/Debug/netcoreapp2.0/quotingdojo.pdb
+/Users/Nash/Desktop/programming/C#/quotingdojo/obj/Debug/netcoreapp2.0/quotingdojo.dll
+/Users/Nash/Desktop/programming/C#/quotingdojo/obj/Debug/netcoreapp2.0/quotingdojo.pdb
