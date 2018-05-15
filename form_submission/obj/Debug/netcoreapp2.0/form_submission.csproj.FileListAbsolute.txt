@@ -1,0 +1,11 @@
+/Users/Nash/Desktop/programming/C#/form_submission/bin/Debug/netcoreapp2.0/form_submission.deps.json
+/Users/Nash/Desktop/programming/C#/form_submission/bin/Debug/netcoreapp2.0/form_submission.runtimeconfig.json
+/Users/Nash/Desktop/programming/C#/form_submission/bin/Debug/netcoreapp2.0/form_submission.runtimeconfig.dev.json
+/Users/Nash/Desktop/programming/C#/form_submission/bin/Debug/netcoreapp2.0/form_submission.dll
+/Users/Nash/Desktop/programming/C#/form_submission/bin/Debug/netcoreapp2.0/form_submission.pdb
+/Users/Nash/Desktop/programming/C#/form_submission/obj/Debug/netcoreapp2.0/form_submission.csprojResolveAssemblyReference.cache
+/Users/Nash/Desktop/programming/C#/form_submission/obj/Debug/netcoreapp2.0/form_submission.csproj.CoreCompileInputs.cache
+/Users/Nash/Desktop/programming/C#/form_submission/obj/Debug/netcoreapp2.0/form_submission.AssemblyInfoInputs.cache
+/Users/Nash/Desktop/programming/C#/form_submission/obj/Debug/netcoreapp2.0/form_submission.AssemblyInfo.cs
+/Users/Nash/Desktop/programming/C#/form_submission/obj/Debug/netcoreapp2.0/form_submission.dll
+/Users/Nash/Desktop/programming/C#/form_submission/obj/Debug/netcoreapp2.0/form_submission.pdb

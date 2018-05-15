@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>form submit</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.42/css/uikit.min.css" />
+
+    <!-- UIkit JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.42/js/uikit.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.42/js/uikit-icons.min.js"></script>
+
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    
+</head>
+<body>
+    <nav class="uk-navbar-container" uk-navbar>
+        <div class="uk-navbar-left">
+
+            <ul class="uk-navbar-nav">
+                <li class="uk-active"><a href="#">Home</a></li>
+                <li><a href="#">Result</a></li>
+            </ul>
+
+        </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        
+        <footer> 
+        </footer>
+    </div>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

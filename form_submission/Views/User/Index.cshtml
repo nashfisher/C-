@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <h3>Enter your information</h3>
+    <form class="uk-form-horizontal uk-margin-large" action="process" method="POST">
+
+        <div class="uk-margin">
+            <label class="uk-form-label" for="first_name">First Name</label>
+            <div class="uk-form-controls">
+                <input class="uk-input" type="text" name="first_name">
+            </div>
+        </div>
+
+        <div class="uk-margin">
+            <label class="uk-form-label" for="last_name">Last Name</label>
+            <div class="uk-form-controls">
+                <input class="uk-input" type="text" name="last_name">
+            </div>
+        </div>
+
+        <div class="uk-margin">
+            <label class="uk-form-label" for="age">Age</label>
+            <div class="uk-form-controls">
+                <input class="uk-input" type="number" name="age">
+            </div>
+        </div>
+
+        <div class="uk-margin">
+            <label class="uk-form-label" for="email">Email Address</label>
+            <div class="uk-form-controls">
+                <input class="uk-input" type="email" name="email">
+            </div>
+        </div>
+
+        <div class="uk-margin">
+            <label class="uk-form-label" for="password">Password</label>
+            <div class="uk-form-controls">
+                <input class="uk-input" type="password" name="password">
+            </div>
+        </div>
+
+        <button class="uk-button uk-button-default">Submit</button>
+        
+    </form>
+        @{
+            foreach (var error in ViewBag.errors) {
+                if(@error.Errors.Count > 0) {
+                    <p>@error.Errors[0].ErrorMessage</p>
+                }
+            }
+        }
+</div>
