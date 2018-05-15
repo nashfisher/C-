@@ -15,6 +15,7 @@ namespace form_submission.Controllers
         [Route("")]
         public IActionResult Index()
         {
+            @ViewBag.errors = "";
             return View();
         }
 
@@ -45,8 +46,6 @@ namespace form_submission.Controllers
         [Route("success")]
         public IActionResult Success()
         {
-            ViewData["Message"] = "Your contact page.";
-
             return View();
         }
 
