@@ -25,19 +25,30 @@ namespace login_registration.Controllers
         [Route("process-register")]
         public IActionResult ProcessRegister(User model, string Password_Confirm) {
 
-            if (Password_Confirm == model.Password) {
-                
-                if(ModelState.IsValid) {
+            string Search = $"SELECT * FROM Users WHERE email = '{model.Email}'";
+            var Result = DbConnector.Query(Search);
+
+            if (Result.Count == 0) {
+
+                if (Password_Confirm == model.Password) {
                     
-                    string newUser = $"INSERT INTO Users (first_name, last_name, email, password) VALUES ('{model.First_Name}', '{model.Last_Name}', '{model.Email}', '{model.Password}')";
-                    DbConnector.Execute(newUser);
-                    
-                    return RedirectToAction("Home");
+                    if(ModelState.IsValid) {
+                        
+                        string newUser = $"INSERT INTO Users (first_name, last_name, email, password) VALUES ('{model.First_Name}', '{model.Last_Name}', '{model.Email}', '{model.Password}')";
+                        DbConnector.Execute(newUser);
+                        
+                        return RedirectToAction("Home");
+                    }
+                    return View("Register",model);
                 }
-                return View("Register",model);
+                else {
+                    TempData["error"] = "Passwords do not match.";
+                    return View("Register");
+                }
             }
+
             else {
-                TempData["error"] = "Passwords do not match.";
+                TempData["error"] = "A user has already registered with that email address.";
                 return View("Register");
             }
         }
@@ -56,9 +67,9 @@ namespace login_registration.Controllers
             string Search = $"SELECT * FROM Users WHERE email = '{email}' and password = '{password}'";
             var Result = DbConnector.Query(Search);
 
-            if (Result.Count = 1) {
+            if (Result.Count == 1) {
                 Console.WriteLine("found it");
-                Console.WriteLine(Result);
+                Console.WriteLine(Result[0]);
                 
                 return RedirectToAction("Home");
             }

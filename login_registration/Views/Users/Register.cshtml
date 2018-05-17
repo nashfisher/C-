@@ -48,6 +48,6 @@
     </form>
     <a class="uk-link-blue" href="/login">Login with existing account</a>
 
-    <div asp-validation-summary="All"></div>
-    <div><p>@TempData["error"]</p></div>
+    <div asp-validation-summary="All" style="color: red;"></div>
+    <div><p style="color: red;">@TempData["error"]</p></div>
 </div>

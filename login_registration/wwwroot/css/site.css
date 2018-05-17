@@ -23,5 +23,13 @@
     .container {
         margin: auto;
         width: 75vw;
+        overflow: scroll;
     }
+}
+ul {
+    list-style: none;
+}
+
+ol, ul {
+    padding-left: 0px !important;
 }
