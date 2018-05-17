@@ -12,6 +12,13 @@
     margin: auto;
     width: 25vw;
 }
+.uk-navbar-container:not(.uk-navbar-transparent) {
+    background: #3d3d3d !important;
+}
+
+nav a {
+    color: white !important;
+}
 
 /* .errors {
     height: 50px;
@@ -24,6 +31,10 @@
         margin: auto;
         width: 75vw;
         overflow: scroll;
+    }
+
+    .mobile-hidden {
+        display: none;
     }
 }
 ul {

@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
 using login_registration.Models;
 using DbConnection;
 
@@ -16,6 +17,11 @@ namespace login_registration.Controllers
         [Route("")]
         public IActionResult Register()
         {
+            // Setting default nav link to login, should change after login
+            HttpContext.Session.SetString("Log", "Login");
+            string Log = HttpContext.Session.GetString("Log");
+            ViewBag.log = Log;
+
             ViewBag.errors = "";
 
             return View();
@@ -25,11 +31,14 @@ namespace login_registration.Controllers
         [Route("process-register")]
         public IActionResult ProcessRegister(User model, string Password_Confirm) {
 
+            // Checking to see if user has already registered
             string Search = $"SELECT * FROM Users WHERE email = '{model.Email}'";
             var Result = DbConnector.Query(Search);
 
+            // If user is not registered, proceed
             if (Result.Count == 0) {
 
+                // Do passwords match?
                 if (Password_Confirm == model.Password) {
                     
                     if(ModelState.IsValid) {
@@ -47,6 +56,7 @@ namespace login_registration.Controllers
                 }
             }
 
+            // If user already registered, error
             else {
                 TempData["error"] = "A user has already registered with that email address.";
                 return View("Register");
@@ -57,6 +67,9 @@ namespace login_registration.Controllers
         [Route("login")]
         public IActionResult Login()
         {
+            string Log = HttpContext.Session.GetString("Log");
+            ViewBag.log = Log;
+
             return View("Login");
         }
 
@@ -69,7 +82,9 @@ namespace login_registration.Controllers
 
             if (Result.Count == 1) {
                 Console.WriteLine("found it");
-                Console.WriteLine(Result[0]);
+
+                HttpContext.Session.Clear();
+                HttpContext.Session.SetString("Log", email);
                 
                 return RedirectToAction("Home");
             }
@@ -80,6 +95,10 @@ namespace login_registration.Controllers
         [HttpGet]
         [Route("home")]
         public IActionResult Home() {
+
+            string Log = HttpContext.Session.GetString("Log");
+            ViewBag.log = Log;
+
             return View();
         }
 
